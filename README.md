@@ -1,4 +1,4 @@
-# <h1>House-Price-Model</h1>
+# <h1>House Price Model</h1>
 <h2>Description</h2>
 <p>This model predicts the cost of a house based off of a list of features. This information is provided by the American Statistics Association. These prediction were generated using a Ridge Regression model.
 </p>

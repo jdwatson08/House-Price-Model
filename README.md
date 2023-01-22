@@ -12,7 +12,7 @@ Google Colab
 
 <div>
 <h2>How to use</h2>
-To see to result of the model, download the datafile, open in Google Colab, and run the notebook.
+To see to result of the model download the datafile, open in Google Colab, and run the notebook.
 </div>
 
 <div>
